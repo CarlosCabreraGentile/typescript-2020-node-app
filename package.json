@@ -1,0 +1,27 @@
+{
+  "name": "typescript-2020-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosCabreraGentile/typescript-2020-node-app.git"
+  },
+  "author": "Carlos Cabrera Gentile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosCabreraGentile/typescript-2020-node-app/issues"
+  },
+  "homepage": "https://github.com/CarlosCabreraGentile/typescript-2020-node-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
